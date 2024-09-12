@@ -1,0 +1,2 @@
+def start(update: Update, context: CallbackContext):
+    update.message.reply_text("Welcome to the Parking Management Bot! Use /help to see available commands.")
